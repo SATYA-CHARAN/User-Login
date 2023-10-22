@@ -1,4 +1,4 @@
-package com.shubham.mahalkar.passwordvalidation;
+package com.passwordvalidation;
 
 import org.junit.Test;
 
