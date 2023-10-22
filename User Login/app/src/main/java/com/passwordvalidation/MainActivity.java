@@ -1,4 +1,4 @@
-package com.shubham.mahalkar.passwordvalidation;
+package com.passwordvalidation;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
